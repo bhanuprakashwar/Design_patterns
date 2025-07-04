@@ -1,6 +1,7 @@
 /* 
 Definition:
 Lets you copy existing objects without making your code dependent on their classes.
+It allow to clone existing object wihtout re-initializing the entire process 
 */
 
 interface CustomButton {
